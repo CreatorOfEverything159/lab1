@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Boris/CLionProjects/lab1/constants.h
+
+/cygdrive/c/Users/Boris/CLionProjects/lab1/longnum.cpp
+longnum.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/longnum.h
+messages.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/messages.h
+
+/cygdrive/c/Users/Boris/CLionProjects/lab1/longnum.h
+iostream
+-
+fstream
+-
+constants.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/constants.h
+
+/cygdrive/c/Users/Boris/CLionProjects/lab1/main.cpp
+iostream
+-
+constants.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/constants.h
+messages.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/messages.h
+longnum.h
+/cygdrive/c/Users/Boris/CLionProjects/lab1/longnum.h
+
+/cygdrive/c/Users/Boris/CLionProjects/lab1/messages.h
+iostream
+-
+
